@@ -3,194 +3,386 @@ VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 X-WR-CALNAME:calendari aules
 BEGIN:VEVENT
-UID:20221018Z-0pyo@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221003Z-5csg@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221003
+SUMMARY:Test de los contenidos teóricos del módulo 1 (Moodle) [Modelos avanzados de minería de datos aula 1] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221004Z-8gpn@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221004
+SUMMARY:PEC1: ¿Qué son los datos y cuál es su ciclo de vida? [Tipología y ciclo de vida de los datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221010Z-88wr@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221010
+SUMMARY:PEC1: Preparación de datos [Modelos avanzados de minería de datos aula 1] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221010Z-48oj@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221010
+SUMMARY:PEC1 [Fundamentos de la ciencia de datos aula 3] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221012Z-tf7f@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221012
+SUMMARY:A1 - Preprocesado de datos [Estadística avanzada aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221017Z-vnj1@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221017
+SUMMARY:A3: Evaluación de buenas y malas visualizaciones (PEC1) [Visualización de datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221018Z-xojm@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221018
 SUMMARY:PEC1: ¿Qué son los datos y cuál es su ciclo de vida? [Tipología y ciclo de vida de los datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221023Z-ltlp@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221021Z-kvbj@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221021
+SUMMARY:Práctica 1: ¿Cómo podemos capturar los datos de la web? [Tipología y ciclo de vida de los datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221023Z-xhy7@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221023
 SUMMARY:Test de los contenidos teóricos del módulo 1 (Moodle) [Modelos avanzados de minería de datos aula 1] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221023Z-8481@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221023Z-89l3@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221023
 SUMMARY:PEC1: Preparación de datos [Modelos avanzados de minería de datos aula 1] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221030Z-2j1f@uoc.edu
-DTSTAMP:20220928T152452
-DTSTART;VALUE=DATE:20221030
-SUMMARY:PEC1 [Fundamentos de la ciencia de datos aula 3] (Entrega de la práctica / PEC)
+UID:20221024Z-vvm2@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221024
+SUMMARY:Test de los contenidos teóricos del módulo 2 (Moodle) [Modelos avanzados de minería de datos aula 1] (Inici de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221102Z-mmka@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221024Z-o620@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221024
+SUMMARY:PEC 1 [Minería de datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221030Z-z3jt@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221030
+SUMMARY:PEC1 [Fundamentos de la ciencia de datos aula 3] (Lliurament de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221031Z-6uin@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221031
+SUMMARY:PEC2: Métodos no supervisados [Modelos avanzados de minería de datos aula 1] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221102Z-z382@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221102
 SUMMARY:A3: Evaluación de buenas y malas visualizaciones (PEC1) [Visualización de datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221103Z-krtf@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221102Z-nxbl@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221102
+SUMMARY:A2 - Análisis estadístico I [Estadística avanzada aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221103Z-rck8@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221103
-SUMMARY:A1 - Preprocesado de datos [Estadística avanzada aula 2] (Entrega de la práctica / PEC)
+SUMMARY:A1 - Preprocesado de datos [Estadística avanzada aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221109Z-9cqt@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221107Z-jhmm@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221107
+SUMMARY:A5: Estudio de técnicas de visualización de datos (PEC2) [Visualización de datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221109Z-3pw6@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221109
-SUMMARY:PEC 1 [Minería de datos aula 2] (Entrega de la práctica / PEC)
+SUMMARY:PEC 1 [Minería de datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221120Z-5yvr@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221114Z-5ss7@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221114
+SUMMARY:PEC2 [Fundamentos de la ciencia de datos aula 3] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221114Z-d2lr@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221114
+SUMMARY:PEC 2 [Minería de datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221120Z-h7r4@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221120
 SUMMARY:PEC2: Métodos no supervisados [Modelos avanzados de minería de datos aula 1] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221120Z-msek@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221120Z-pavx@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221120
 SUMMARY:Test de los contenidos teóricos del módulo 2 (Moodle) [Modelos avanzados de minería de datos aula 1] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221122Z-hfd5@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221121Z-edml@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221121
+SUMMARY:Test de los contenidos teóricos del módulo 3 (Moodle) [Modelos avanzados de minería de datos aula 1] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221122Z-t84f@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221122
 SUMMARY:Práctica 1: ¿Cómo podemos capturar los datos de la web? [Tipología y ciclo de vida de los datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221130Z-pgcf@uoc.edu
-DTSTAMP:20220928T152452
-DTSTART;VALUE=DATE:20221130
-SUMMARY:PEC 2 [Minería de datos aula 2] (Entrega de la práctica / PEC)
+UID:20221125Z-uynx@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221125
+SUMMARY:PEC2: ¿Es necesario preprocesar los datos? [Tipología y ciclo de vida de los datos aula 2] (Inici de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221130Z-abla@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221128Z-endl@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221128
+SUMMARY:PEC3: Métodos supervisados [Modelos avanzados de minería de datos aula 1] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221128Z-6cmj@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221128
+SUMMARY:Práctica 1 - Selección y preprocesado de un conjunto de datos [Minería de datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221128Z-hb1m@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221128
+SUMMARY:A7: Selección del conjunto de datos (Práctica I) [Visualización de datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221130Z-xohv@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221130
+SUMMARY:PEC 2 [Minería de datos aula 2] (Lliurament de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221130Z-56tt@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221130
 SUMMARY:A5: Estudio de técnicas de visualización de datos (PEC2) [Visualización de datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221202Z-mnbx@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221201Z-w3h9@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221201
+SUMMARY:A3 - Modelización predictiva [Estadística avanzada aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221202Z-ha2x@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221202
-SUMMARY:A2 - Análisis estadístico I [Estadística avanzada aula 2] (Entrega de la práctica / PEC)
+SUMMARY:A2 - Análisis estadístico I [Estadística avanzada aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221211Z-xgza@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221209Z-wxqj@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221209
+SUMMARY:PEC 3 [Minería de datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221211Z-nu1h@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221211
-SUMMARY:PEC2 [Fundamentos de la ciencia de datos aula 3] (Entrega de la práctica / PEC)
+SUMMARY:PEC2 [Fundamentos de la ciencia de datos aula 3] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221213Z-8dan@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221212Z-likn@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221212
+SUMMARY:A8: Creación de una visualización data storytelling (PEC3) [Visualización de datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221213Z-dmhh@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221213
 SUMMARY:PEC2: ¿Es necesario preprocesar los datos? [Tipología y ciclo de vida de los datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221214Z-ih7u@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221214Z-lx1i@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221214
 SUMMARY:A7: Selección del conjunto de datos (Práctica I) [Visualización de datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221214Z-i2ss@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221214Z-k8ac@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221214
-SUMMARY:Práctica 1 - Selección y preprocesado de un conjunto de datos [Minería de datos aula 2] (Entrega de la práctica / PEC)
+SUMMARY:Práctica 1 - Selección y preprocesado de un conjunto de datos [Minería de datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221218Z-bfyb@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221215Z-pfuu@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221215
+SUMMARY:Práctica 2: ¿Cómo realizar la limpieza y análisis de datos? [Tipología y ciclo de vida de los datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221218Z-x3uu@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221218
 SUMMARY:Test de los contenidos teóricos del módulo 3 (Moodle) [Modelos avanzados de minería de datos aula 1] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221218Z-2ic0@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221218Z-u3r4@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221218
 SUMMARY:PEC3: Métodos supervisados [Modelos avanzados de minería de datos aula 1] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221222Z-c5q7@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221219Z-9gew@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221219
+SUMMARY:Test de los contenidos teóricos del módulo 4 (Moodle) [Modelos avanzados de minería de datos aula 1] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221221Z-yk1w@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221221
+SUMMARY:PEC3 [Fundamentos de la ciencia de datos aula 3] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221222Z-d538@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221222
-SUMMARY:PEC 3 [Minería de datos aula 2] (Entrega de la práctica / PEC)
+SUMMARY:PEC 3 [Minería de datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221223Z-grmd@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221222Z-whjs@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221222
+SUMMARY:A4 - Análisis estadístico avanzado: Análisis de varianza y repaso del curso [Estadística avanzada aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221223Z-ccij@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221223
-SUMMARY:A3 - Modelización predictiva [Estadística avanzada aula 2] (Entrega de la práctica / PEC)
+SUMMARY:Práctica 2 - Proyecto de minería de datos [Minería de datos aula 2] (Inici de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20221230Z-h838@uoc.edu
-DTSTAMP:20220928T152452
+UID:20221223Z-ff2y@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221223
+SUMMARY:A3 - Modelización predictiva [Estadística avanzada aula 2] (Lliurament de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221227Z-xyfu@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221227
+SUMMARY:PEC4: Combinación de modelos [Modelos avanzados de minería de datos aula 1] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221227Z-q5hj@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20221227
+SUMMARY:A9: Creación de la visualización y entrega del proyecto (Práctica II) [Visualización de datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20221230Z-xtco@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20221230
 SUMMARY:A8: Creación de una visualización data storytelling (PEC3) [Visualización de datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20230113Z-egq0@uoc.edu
-DTSTAMP:20220928T152452
+UID:20230113Z-bcry@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20230113
 SUMMARY:Práctica 2: ¿Cómo realizar la limpieza y análisis de datos? [Tipología y ciclo de vida de los datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20230115Z-tsfr@uoc.edu
-DTSTAMP:20220928T152452
+UID:20230115Z-qrcf@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20230115
 SUMMARY:Test de los contenidos teóricos del módulo 4 (Moodle) [Modelos avanzados de minería de datos aula 1] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20230115Z-4a6a@uoc.edu
-DTSTAMP:20220928T152452
+UID:20230115Z-b1tg@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20230115
 SUMMARY:PEC4: Combinación de modelos [Modelos avanzados de minería de datos aula 1] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20230122Z-lciv@uoc.edu
-DTSTAMP:20220928T152452
-DTSTART;VALUE=DATE:20230122
-SUMMARY:PEC3 [Fundamentos de la ciencia de datos aula 3] (Entrega de la práctica / PEC)
+UID:20230116Z-xw3b@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20230116
+SUMMARY:PEC5: Lectura de artículos del estado del arte [Modelos avanzados de minería de datos aula 1] (Inici de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20230123Z-hlds@uoc.edu
-DTSTAMP:20220928T152452
+UID:20230117Z-8eys@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20230117
+SUMMARY:5. Debate: Cierre (parte 1) [Tipología y ciclo de vida de los datos aula 2] (Inici de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20230122Z-7soj@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20230122
+SUMMARY:PEC3 [Fundamentos de la ciencia de datos aula 3] (Lliurament de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20230123Z-zs2c@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20230123
 SUMMARY:A9: Creación de la visualización y entrega del proyecto (Práctica II) [Visualización de datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20230123Z-3ycb@uoc.edu
-DTSTAMP:20220928T152452
+UID:20230123Z-d1zs@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20230123
-SUMMARY:A4 - Análisis estadístico avanzado: Análisis de varianza y repaso del curso [Estadística avanzada aula 2] (Entrega de la práctica / PEC)
+SUMMARY:A4 - Análisis estadístico avanzado: Análisis de varianza y repaso del curso [Estadística avanzada aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20230123Z-9uya@uoc.edu
-DTSTAMP:20220928T152452
+UID:20230123Z-ku9v@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20230123
 SUMMARY:5. Debate: Cierre (parte 1) [Tipología y ciclo de vida de los datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20230125Z-6iez@uoc.edu
-DTSTAMP:20220928T152452
-DTSTART;VALUE=DATE:20230125
-SUMMARY:Práctica 2 - Proyecto de minería de datos [Minería de datos aula 2] (Entrega de la práctica / PEC)
+UID:20230124Z-yvsc@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20230124
+SUMMARY:5. Debate: Cierre (parte 2) [Tipología y ciclo de vida de los datos aula 2] (Inici de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20230127Z-7ii5@uoc.edu
-DTSTAMP:20220928T152452
+UID:20230125Z-v5p3@uoc.edu
+DTSTAMP:20220928T160922
+DTSTART;VALUE=DATE:20230125
+SUMMARY:Práctica 2 - Proyecto de minería de datos [Minería de datos aula 2] (Lliurament de la pràctica / PAC)
+END:VEVENT
+BEGIN:VEVENT
+UID:20230127Z-uniy@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20230127
 SUMMARY:5. Debate: Cierre (parte 2) [Tipología y ciclo de vida de los datos aula 2] (Lliurament de la pràctica / PAC)
 END:VEVENT
 BEGIN:VEVENT
-UID:20230129Z-xxij@uoc.edu
-DTSTAMP:20220928T152452
+UID:20230129Z-ihvh@uoc.edu
+DTSTAMP:20220928T160922
 DTSTART;VALUE=DATE:20230129
 SUMMARY:PEC5: Lectura de artículos del estado del arte [Modelos avanzados de minería de datos aula 1] (Lliurament de la pràctica / PAC)
 END:VEVENT
